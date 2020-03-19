@@ -22,7 +22,6 @@ export default {
       }))
       commit('setRooms', rooms);
       commit('setReconnect', false);
-      console.log(state.user);
 
       const activeRoom = state.activeRoom || rooms[0];
       commit('setActiveRoom', {
