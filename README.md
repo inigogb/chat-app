@@ -1,4 +1,8 @@
-# chat-app
+# Vuejs Chat-app
+
+## About
+This is a real-time chat web application made in Vue.js
+You can check the live demo [here](https://inigo-garcia-b-chat-app.netlify.com/)
 
 ## Project setup
 ```
