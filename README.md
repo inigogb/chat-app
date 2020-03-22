@@ -4,6 +4,13 @@
 This is a real-time chat web application made in Vue.js
 You can check the live demo [here](https://inigo-garcia-b-chat-app.netlify.com/)
 
+## Tech Stack
+* Vue
+* Vuex
+* Vue Router
+* Pusher
+* CSS
+
 ## Project setup
 ```
 npm install
